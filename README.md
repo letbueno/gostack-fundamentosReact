@@ -63,7 +63,7 @@ yarn test
 - [Javascript](https://devdocs.io/javascript/)
 - [Typescript](https://www.typescriptlang.org/docs/home.html)
 - [HTML](https://devdocs.io/html/)
-- [CSS](https://devdocs.io/html/)
+- [CSS](https://devdocs.io/css/)
 - [Styled Components](https://styled-components.com/docs)
 - [Axios](https://github.com/axios/axios)
 
